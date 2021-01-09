@@ -1,5 +1,4 @@
-# FunPython
-
+# API Test
 This program uses openweathermap.org to display weather conditions in a user-inputted city.
 
 It will only work on my machine since it deals with an APPID.  However if a local key is acquired, it will work.
